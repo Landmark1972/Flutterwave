@@ -1,4 +1,7 @@
 New Account Balance
 $100,000
 This Balance is expected.
-Olease Pay Balance.
+Please Pay Balance.
+
+This Balance has to be paid as scheduled
+Please Note there are no part payments
