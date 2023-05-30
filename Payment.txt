@@ -2,3 +2,7 @@ Make new Payment
 with Bank deposit or Cheque.
 This has to Reflect By COB Monday 05/29
 Thanks Very Much
+
+Payment made vis Wells Fargo
+Account Details are good
+Thanks
